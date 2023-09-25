@@ -1,1 +1,1 @@
-👋 Hi, I’m @BoboGPT
+👋 Hi, I’m @BoboZone
