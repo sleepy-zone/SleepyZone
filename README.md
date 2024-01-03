@@ -9,4 +9,4 @@
 
 - 📝 I regularly write articles on [https://github.com/sleepy-zone/blog](https://github.com/sleepy-zone/blog)
 
-- 📫 How to reach me **https://twitter.com/zone__online**
+- 📫 How to reach me **[https://bio.link/sleepyzone](https://bio.link/sleepyzone)**
