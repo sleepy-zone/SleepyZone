@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [fabritor](https://github.com/sleepy-zone/fabritor-web)
 
-- 🌱 I’m currently learning **How to become an independent developer**
+- 📚 I’m currently writing a book about fabric.js, [Fabric.js Tutorial](https://github.com/sleepy-zone/Fabricjs-Tutorial)
+
+- 🌱 I’m currently learning **How to become an independent/opensource developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sleepy-zone](https://github.com/sleepy-zone)
 
