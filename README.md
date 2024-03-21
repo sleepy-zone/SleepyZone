@@ -11,6 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sleepy-zone](https://github.com/sleepy-zone)
 
-- 📝 I regularly write articles on [sleepy-website](https://github.com/sleepy-zone/sleepy-website)
+- 📝 I regularly write articles on [my website](https://sleepy-zone.github.io/)
 
 - 📫 How to reach me **[https://bio.link/sleepyzone](https://bio.link/sleepyzone)**
